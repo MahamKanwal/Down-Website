@@ -1,7 +1,29 @@
-
+*{
+  border: 2px solid green;
+}
 .bg-linear{
-    color: #D41192 !important;
-    
-  
-  }
-  
+     color: #D41192 !important; 
+     /* font-family: Clash Display; */
+     font-size: 70px;
+     /* font-weight: 700;
+     line-height: 76px; */
+     text-align: left;
+     
+    }
+  body
+{
+  background: linear-gradient(90deg, #A734BD 0%, #FF006A 0% ,black 30%);  
+}
+.para{
+  color: #DBDBDB!important;
+}
+.border{
+  background-color: #34142D;
+/* height: 220px; */
+padding: 50px 55px 50px 63px;
+gap: 0px;
+border: 1px solid transparent !important;
+border-radius: 36px;
+
+
+}
