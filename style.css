@@ -21,7 +21,7 @@
 .border{
   background-color: #34142D;
 /* height: 220px; */
-padding: 50px 55px 50px 63px;
+padding: 50px 55px 50px 63px; 
 gap: 0px;
 border: 1px solid transparent !important;
 border-radius: 36px;
